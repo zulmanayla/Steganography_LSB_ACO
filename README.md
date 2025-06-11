@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/39d99a7c-3465-4645-b618-47224642bb03)# Steganography_LSB_ACO
-# GNN-E-Commerce-Delivery-Prediction
-
 ## Project Pengolahan Citra Digital
 **Judul**: Penerapan Algoritma Ant Colony Optimization (ACO) Algorithm - Least Significant Bit (LSB) pada Steganografi untuk Peningkatan Keamanan Citra Gambar
 
